@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   version="1.1"
+   id="svg52"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="/home/christopher/Documents/Repositories/github.com/poexio/poex-visual-identity/merkaba-ln/favicon.png"
+   inkscape:export-xdpi="6.75"
+   inkscape:export-ydpi="6.75"
+   inkscape:version="0.92.2 (unknown)">
+  <metadata
+     id="metadata58">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs56" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1009"
+     inkscape:window-height="1062"
+     id="namedview54"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="228.94187"
+     inkscape:cy="223.8263"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg52" />
+  <g
+     id="g916"
+     transform="matrix(1.0804031,0,0,1.0804031,-20.583194,-34.310664)">
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="256.000000,256.000000 68.826993,147.935614"
+       id="polyline2" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="68.826993,147.935614 178.678574,147.935614"
+       id="polyline4" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="333.529598,147.935614 443.173007,147.935614"
+       id="polyline6" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="443.173007,147.935614 256.000000,256.000000"
+       id="polyline8" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="256.000000,256.000000 68.826993,147.935614"
+       id="polyline10" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="68.826993,147.935614 123.752783,243.069874"
+       id="polyline12" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="201.178295,377.174795 256.000000,472.128772"
+       id="polyline14" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="256.000000,472.128772 256.000000,256.000000"
+       id="polyline16" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="256.000000,256.000000 443.173007,147.935614"
+       id="polyline18" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="443.173007,147.935614 388.247217,243.069874"
+       id="polyline20" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="310.821705,377.174795 256.000000,472.128772"
+       id="polyline22" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="256.000000,472.128772 256.000000,256.000000"
+       id="polyline24" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="68.826993,147.935614 178.678574,147.935614"
+       id="polyline26" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="333.529598,147.935614 443.173007,147.935614"
+       id="polyline28" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="443.173007,147.935614 388.247217,243.069874"
+       id="polyline30" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="310.821705,377.174795 256.000000,472.128772"
+       id="polyline32" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="256.000000,472.128772 201.074209,376.994512"
+       id="polyline34" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="123.648697,242.889592 68.826993,147.935614"
+       id="polyline36" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="465.193361,376.777843 46.806639,376.777843"
+       id="polyline38" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="465.193361,376.777843 256.000000,14.444313"
+       id="polyline40" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="46.806639,376.777843 256.000000,14.444313"
+       id="polyline42" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="465.193361,376.777843 46.806639,376.777843"
+       id="polyline44" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="46.806639,376.777843 256.000000,14.444313"
+       id="polyline46" />
+    <polyline
+       transform="matrix(1,0,0,-1,0,512)"
+       style="fill:#000000;stroke:#090808;stroke-width:16;stroke-linecap:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       points="256.000000,14.444313 465.193361,376.777843"
+       id="polyline48" />
+  </g>
+</svg>
