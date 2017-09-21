@@ -24,7 +24,13 @@ convert -loop 0 -delay 1.5 out0*.png out.gif
 Animated SVG:
 
 ```sh
-sed -i 's|<polyline|<polyline style="stroke-width:10;stroke-miterlimit:10;stroke-dasharray:none;stroke-linecap:round"|' out0*.svg
+sed -i 's|<polyline|<polyline style="stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round"|' out0*.svg
 sed -i 's|black|#66615b|' out0*.svg
 python svganimator.py -s 0.03 -p 3 out.svg out0*.svg
+```
+
+Increase stroke width when using the SVG logo at a smaller size:
+
+```sh
+sed -i 's|<polyline|<polyline style="stroke-width:10;stroke-miterlimit:10;stroke-dasharray:none;stroke-linecap:round"|' out0*.svg
 ```
