@@ -2,35 +2,32 @@
 
 ![merkaba](https://raw.githubusercontent.com/poexio/poex-visual-identity/master/merkaba-ln/out.gif?token=AADtJ7lPaJ8XlRwrQUKfaF4VjZgpme3Zks5ZybWWwA%3D%3D)
 
-## Requirements
+### Requirements
 
 - Go
-- https://github.com/sangaline/svganimator
+- Python
+- Image Magick
 
 ### Instructions
 
 ```sh
-go get github.com/fogleman/ln/ln
-go build merkaba.go
-./merkaba
+./build.sh
 ```
 
-Animated GIF:
+The script will generate the logo with the following variants:
 
-```sh
-convert -loop 0 -delay 1.5 out0*.png out.gif
-```
+* Animated and Still SVG
+* PNG with and without Alpha channel
+* Regular and large sizes
 
-Animated SVG:
+### Sizing
 
-```sh
-sed -i 's|<polyline|<polyline style="stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round"|' out0*.svg
-sed -i 's|black|#66615b|' out0*.svg
-python svganimator.py -s 0.03 -p 3 out.svg out0*.svg
-```
+The large logos are for reference. It is recommended to use the **regular** size
+variants with thicker lines for most uses like on the web or for social media
+avatars.
 
-Increase stroke width when using the SVG logo at a smaller size:
+### Favicon
 
-```sh
-sed -i 's|<polyline|<polyline style="stroke-width:10;stroke-miterlimit:10;stroke-dasharray:none;stroke-linecap:round"|' out0*.svg
-```
+The favicon should be handled manually for best results. Check
+`out/favicon/out000.svg` for an SVG file that can serve as the basis for
+creating a good favicon.

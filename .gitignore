@@ -1,4 +1,5 @@
 out0*.png
 out0*.svg
-merkaba-ln/merkaba
+merkaba-ln/bin
+merkaba-ln/out
 .DS_Store

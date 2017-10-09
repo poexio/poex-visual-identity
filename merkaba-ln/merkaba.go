@@ -1,5 +1,6 @@
 package main
 
+import "os"
 import "fmt"
 import "github.com/fogleman/ln/ln"
 
@@ -27,13 +28,14 @@ func main() {
 
 	tetra := ln.NewMesh([]*ln.Triangle {t1, t2, t3, t4, t5, t6, t7, t8})
 
+	_ = os.Mkdir("out", 0775)
+
 	for i := 0; i < 90; i += 2 {
-		fmt.Println(i)
 		m := ln.Rotate(ln.Vector{0, 0, -2}, ln.Radians(float64(i)))
 
 		shape := ln.NewTransformedShape(tetra, m)
 
-		render(shape, fmt.Sprintf("out%03d", i))
+		render(shape, fmt.Sprintf("out/out%03d", i))
 	}
 }
 
