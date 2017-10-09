@@ -1,6 +1,6 @@
 ## merkaba-ln
 
-![merkaba](https://raw.githubusercontent.com/poexio/poex-visual-identity/master/merkaba-ln/out.gif?token=AADtJ7lPaJ8XlRwrQUKfaF4VjZgpme3Zks5ZybWWwA%3D%3D)
+![merkaba](https://raw.githubusercontent.com/poexio/poex-visual-identity/master/merkaba-ln/poex-anim.gif?token=AADtJ_2kBrniu0I8fYWNOYugMBOmhXn_ks5Z5LncwA%3D%3D)
 
 ### Requirements
 
