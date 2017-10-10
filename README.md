@@ -2,15 +2,13 @@
 
 Visual Identity Guide for Poex
 
+![PoEx Logo](/merkaba-ln/poex-logo-large.png?raw=true "Poex Logo")
+
 ## Logo
 
-Is inspired by the Merkaba, currently stumped on how to best represent it.
+Inspired by the Merkaba.
 
-Check out the layers in the inkscape svg versions.
-
-### Tools
-
-- Inkscape, http://inkscape.org
+See [merkaba-ln](/merkaba-ln) for logos and the code used to generate them.
 
 ## Font
 
@@ -18,6 +16,21 @@ Nunito
 
 https://fonts.google.com/specimen/Nunito
 
+## Wordmark
+
+- Nunito Bold
+- Weight 700
+- Stylized uppercase `POEX.IO`
+
+## Name
+
+Project and company named stylized as `PoEx` in print.
+
+## Color
+
+The color `#66615B` is used for logo and body font color on the web.
+
 ## History
 
 - Pre-release brainstorming right now.
+- Generated logo using [fogleman/ln](github.com/fogleman/ln/). (Sep 2017)
