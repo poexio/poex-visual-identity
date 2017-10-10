@@ -22,6 +22,8 @@ https://fonts.google.com/specimen/Nunito
 - Weight 700
 - Stylized uppercase `POEX.IO`
 
+See [wordmark](/wordmark).
+
 ## Name
 
 Project and company named stylized as `PoEx` in print.

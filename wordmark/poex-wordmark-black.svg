@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="371.49149"
+   height="69.408005"
+   viewBox="0 0 98.290459 18.364201"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="poex-wordmark-black.svg"
+   inkscape:export-filename="/home/christopher/Documents/Repositories/github.com/poexio/poex-visual-identity/wordmark/poex-wordmark-black.png"
+   inkscape:export-xdpi="264.62"
+   inkscape:export-ydpi="264.62">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="62.866627"
+     inkscape:cy="-49.822812"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:window-width="499"
+     inkscape:window-height="411"
+     inkscape:window-x="1417"
+     inkscape:window-y="651"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.775785,-70.678399)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4504"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:20px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion4506"
+         style="fill:#000000;"><rect
+           id="rect4508"
+           width="404.08054"
+           height="52.973557"
+           x="165.71428"
+           y="302.51968"
+           style="fill:#000000;" /></flowRegion><flowPara
+         id="flowPara4510"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:Nunito;-inkscape-font-specification:'Nunito, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;">POEX.IO</flowPara></flowRoot>  </g>
+</svg>
