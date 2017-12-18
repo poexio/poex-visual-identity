@@ -16,7 +16,7 @@ func main() {
 
 	_ = os.Mkdir("out", 0775)
 
-	for i := 0; i < 90; i += 2 {
+	for i := 0; i < 360; i += 2 {
 		m := ln.Rotate(ln.Vector{0, 0, -2}, ln.Radians(float64(i)))
 
 		shape := ln.NewTransformedShape(moose, m)
@@ -32,7 +32,8 @@ func render(shape ln.Shape, rootname string) {
 	scene.Add(shape)
 
 	// define camera parameters
-	eye := ln.Vector{6, 6, 6}    // camera position
+	// eye := ln.Vector{6, 6, 6}    // camera position
+	eye := ln.Vector{0, -6, 2}    // camera position
 	center := ln.Vector{0, 0, 0} // camera looks at
 	up := ln.Vector{0, 0, 1}     // up direction
 
