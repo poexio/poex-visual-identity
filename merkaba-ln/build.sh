@@ -37,5 +37,8 @@ echo "animating svg logo"
 python bin/svganimator/svganimator.py -s 0.03 -p 3 poex-anim-large.svg out/large/out*.svg
 python bin/svganimator/svganimator.py -s 0.03 -p 3 poex-anim.svg out/small/out*.svg
 
+echo "making white animated logo"
+sed 's|66615b|ffffff|g' poex-anim.svg > poex-anim-white.svg
+
 echo "animating gif logo"
 convert -loop 0 -delay 1.5 out/out0*.png poex-anim.gif
