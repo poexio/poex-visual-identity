@@ -2,4 +2,6 @@ out0*.png
 out0*.svg
 merkaba-ln/bin
 merkaba-ln/out
+moose-ln/bin
+moose-ln/out
 .DS_Store
